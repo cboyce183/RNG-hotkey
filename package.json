@@ -1,0 +1,19 @@
+{
+  "name": "rng-overlay",
+  "version": "1.0.0",
+  "description": "random number generator overlay with hotkey support",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^17.1.2"
+  },
+  "dependencies": {
+    "electron-reload": "^2.0.0-alpha.1",
+    "requirejs": "^2.3.6"
+  }
+}
